@@ -1,0 +1,15 @@
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net10.0\PrimeiroProjetoCsharp.exe
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net10.0\PrimeiroProjetoCsharp.deps.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net10.0\PrimeiroProjetoCsharp.runtimeconfig.json
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net10.0\PrimeiroProjetoCsharp.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\bin\Debug\net10.0\PrimeiroProjetoCsharp.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.AssemblyInfoInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.AssemblyInfo.cs
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\refint\PrimeiroProjetoCsharp.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.pdb
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\PrimeiroProjetoCsharp.genruntimeconfig.cache
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\ref\PrimeiroProjetoCsharp.dll
+C:\Users\assis\source\repos\PrimeiroProjetoCsharp\PrimeiroProjetoCsharp\obj\Debug\net10.0\Primeiro.A5ACA92F.Up2Date
